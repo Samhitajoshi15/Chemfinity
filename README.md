@@ -1,21 +1,4 @@
 # Chemfinity
-Notes@Chemfinity for Class 10th and 12th Boards
+Chemfinity Notes for Class 10th and 12th Boards
 
-<a href="https://www.youtube.com/channel/UC-pXuGzu-1LHW6WBnh3mTqA"> Infinity and Beyond</a>
-
-### Chemical Reactions and Equations
-#### Class 10 Chemistry
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GmNw8jmHGR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NWXXqctyoSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/opJzeGZjm5g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uiuzjt3LrAg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KSA3qPr4cfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://twitter.com/intent/tweet?button_hashtag=chemfinity&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #chemfinity</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
